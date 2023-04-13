@@ -3,7 +3,7 @@
 $url = "https://example.com";
 $previous_contents = "";
 
-// Email notification settings
+// Email notification settings (www.techno.rn.tn)
 $to = "youremail@example.com";
 $subject = "URL has changed!";
 $message = "The contents of the URL $url have changed.";
